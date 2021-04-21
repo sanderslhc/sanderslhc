@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sanderslhc
+- China Agricutural university
+- Animal genetic and breeding
 - 👀 I’m interested in RNA-seq analysis
 - 🌱 I’m currently learning Python
--💞️Look for communication
+-💞️Looking for communication
 -📫sanderslhc@126.com
 
 <!---
